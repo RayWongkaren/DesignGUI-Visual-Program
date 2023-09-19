@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\AboutMe\AboutMe\bin\Debug\AboutMe.exe.config
+C:\Users\ACER\source\repos\AboutMe\AboutMe\bin\Debug\AboutMe.exe
+C:\Users\ACER\source\repos\AboutMe\AboutMe\bin\Debug\AboutMe.pdb
+C:\Users\ACER\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.AboutMe.resources
+C:\Users\ACER\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.Properties.Resources.resources
+C:\Users\ACER\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.exe
+C:\Users\ACER\source\repos\AboutMe\AboutMe\obj\Debug\AboutMe.pdb
